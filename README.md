@@ -1,4 +1,4 @@
-### Hi there !! 👋<h2> I'm Alexis </h2>
+### Hi there !! 👋 I'm Alexis
 
 <h3> 💻 About Me </h3>
 
