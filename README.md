@@ -27,7 +27,8 @@
 <br/>
 
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsLF)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xrths&layout=compact&show_icons=true&theme=tokyonight)
 
 <br><br>
 
